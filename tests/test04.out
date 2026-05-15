@@ -1,0 +1,13 @@
+=== Loi giai tu luan ===
+
+Thong so: n = 3, k = 2, r = 1
+g(x) = x + 1
+
+STT  m(bin)      m(x)           c(bin)
+------------------------------------------------------------
+0    00          0              000
+1    01          x              110
+2    10          1              011
+3    11          x + 1          101
+
+Ket qua: d_min = 2, phat hien 1 loi, sua 0 loi
